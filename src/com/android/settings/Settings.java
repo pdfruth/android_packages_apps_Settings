@@ -163,4 +163,5 @@ public class Settings extends SettingsActivity {
 
     // PureNexus Additions.
     public static class PureNexusSettingsActivity extends SettingsActivity { /* empty */ }
+    public static class SuperSUActivity extends SettingsActivity { /* empty */ }
 }
