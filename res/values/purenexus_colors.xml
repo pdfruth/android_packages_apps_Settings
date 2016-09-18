@@ -14,6 +14,8 @@
      limitations under the License.
 -->
 <resources>
+    <color name="dashboard_category_title_background">@color/card_background</color>
+    <color name="selectable_card_background">@color/card_background</color>
     <!-- Expanded desktop -->
     <drawable name="expanded_item_bg_activated">#ffEEEEEE</drawable>
     <drawable name="expanded_item_bg">@android:color/background_light</drawable>
