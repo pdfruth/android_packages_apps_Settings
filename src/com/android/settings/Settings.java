@@ -167,4 +167,5 @@ public class Settings extends SettingsActivity {
     public static class SuperSUActivity extends SettingsActivity { /* empty */ }
     public static class SuperUserActivity extends SettingsActivity { /* empty */ }
     public static class DisplayRotationActivity extends SettingsActivity { /* empty */ }
+    public static class HeadsUpSettingsActivity extends SettingsActivity { /* empty */ }
 }
